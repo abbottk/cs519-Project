@@ -3,22 +3,22 @@
 _Last Updated: 2017-10-02_
 
 ### Software project
-An application to be installed on a mobile computing device that assists in setting up user permissions and media filtering. This application will be a comprehensive tool for setting and managing visualizations for "available" applications, as well as managing the filtering of content available on those applications. Some additional features might include monitoring capabilities that track usage time and history, and provide settings for limiting usage.
+Our software project is a UI overlay for the Android operating system. When the overlay is initialized users set up "profiles" that have configuration options including age ranges, content filtering settings, and visualization preferences. When a user "logs in" to the operating system using one of these pre-configured profiles, it adjusts the way the UI is presented to the user (i.e. more icon driven, or increased reliance on voice commands, etc...).
 
 ### Underrepresented population
 We have chosen the preschool age range (3 -- 5 years old) as our underrepresented population.
 
 ### Situation/use case for underrepresented population
-Accessing audio and video media.
+Using a mobile device to access digital media.
 
 ### What issues make your software a potentially poor fit for this population?
-Currently available settings and applications are difficult to understand and modify. This can create issues where permissions are not set appropriately for preschool users.
+The current Android UI has options for creating profiles, however the settings available do not allow for content filtering and don't really modify the UI in any significant way.
 
 ### Situation/use case for mainstream population
-Filtering or searching audio and video media.
+Using a mobile device to access digital media that has been customized to personal preferences.
 
 ### Justification for project
-Because setting up mobile device management and filtering of or access to audio and video media can be a challenge, it often gets done poorly or is skipped altogether. Preschool aged children are a particular concern in this case, because mobile devices are becoming more ubiquitous in their lives and safety is an increasing concern. In addition to benefiting a mainstream population and the preschool population it will assist parents in understanding and configuring user settings and permissions more easily.
+Because setting up mobile device management and filtering of or access to digital media can be a challenge, it often gets done poorly or is skipped altogether. Preschool aged children are a particular concern in this case, because mobile devices are becoming more ubiquitous in their lives and safety is an increasing concern. In addition to benefiting a mainstream population and the preschool population it will assist parents in understanding and configuring user settings and permissions more easily.
 
 ### Team members
 | Name | Role |
