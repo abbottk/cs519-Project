@@ -1,10 +1,10 @@
 # Project Installment 1: Project Formation
 
-**Last Updated:** *2017-10-05*
+**Last Updated:** *2017-10-06*
 **Group Members:** *Keeley Abbott, Shashank Moghe, Malcolm Diller, and Chengxi Yang*
 
 ### Software project
-Our software project is a UI overlay for the Android and iOS operating system. When the overlay is initialized users set up "profiles" that have configuration options including age ranges, content filtering settings, and visualization preferences. When a user "logs in" to the operating system using one of these pre-configured profiles, it adjusts the way the UI is presented to the user (i.e. more icon driven, or increased reliance on voice commands, etc...).
+Our software project is a digital media player for preschool children. It will provide several features that will allow visualizations like menus and icons to be customized. In addition, it will allow for content filtering and organization. The idea is to provide a simplified UI that allows for customization that will improve the way users perceive, think about, and interact with a digital media player.
 
 ### Underrepresented population
 We have chosen the preschool age range (3 -- 5 years old) as our underrepresented population.
@@ -13,13 +13,13 @@ We have chosen the preschool age range (3 -- 5 years old) as our underrepresente
 Using a mobile device to access digital media.
 
 ### What issues make your software a potentially poor fit for this population?
-The current Android UI has options for creating profiles, however the settings available do not allow for content filtering and don't really modify the UI in any significant way. iOS does not currently have this sort of option, so this would provide expanded capability for them as well.
+Current digital media players are designed for adult users. Menus are confusing for a preschool children, and the content presented may not always be appropriate for them. In addition, menu items can require a level of fine motor skills not available to preschoolers.
 
 ### Situation/use case for mainstream population
-Using a mobile device to access digital media that has been customized to personal preferences. With customizable profile choices with content restrictions for kids, mainstream population can prefer to use it for their personal use with a parental control on the kids profiles.
+Using a mobile device to access digital media that has been customized to personal preferences.
 
 ### Justification for project
-Because setting up mobile device management and filtering of or access to digital media can be a challenge, it often gets done poorly or is skipped altogether. Preschool aged children are a particular concern in this case, because mobile devices are becoming more ubiquitous in their lives and safety is an increasing concern. In addition to benefiting a mainstream population and the preschool population it will assist parents in understanding and configuring user settings and permissions more easily.
+From a usability standpoint, our digital media player will provide users with a fully customizable interface including menus and interaction techniques. For instance some users may find traditional "drop-down" style menus familiar and easy to interact with, but others may prefer icon driven menus. Our software will accommodate these differences. In addition, users may prefer to see only media content that meets some specified criteria, so our software will allow users to set preferences to filter and organize media as well.
 
 ### Team members
 | Name | Role |
