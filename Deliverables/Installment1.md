@@ -1,6 +1,7 @@
 # Project Installment 1: Project Formation
 
-_Last Updated: 2017-10-05_
+**Last Updated:** *2017-10-05*
+**Group Members:** *Keeley Abbott, Shashank Moghe, Malcolm Diller, and Chengxi Yang*
 
 ### Software project
 Our software project is a UI overlay for the Android and iOS operating system. When the overlay is initialized users set up "profiles" that have configuration options including age ranges, content filtering settings, and visualization preferences. When a user "logs in" to the operating system using one of these pre-configured profiles, it adjusts the way the UI is presented to the user (i.e. more icon driven, or increased reliance on voice commands, etc...).
@@ -27,4 +28,3 @@ Because setting up mobile device management and filtering of or access to digita
 | Shashank Moghe | Writer |
 | Malcolm Diller | Researcher |
 | Chengxi Yang | Tech |
-
