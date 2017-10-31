@@ -55,13 +55,35 @@ _Technology and Interaction_
 
 ## Conception of Mainstreamer Group (team):
 ### Use Case for Mainstreamer
-The mainstream use case for our product is an adult user. They enjoy listening to music, and watching videos while working out, and music or podcasts while at work. Our mainstreamers don't have any physical impairment that prevents them from operating the software normally, nor do they exhibit signs of cognitive impairments to the normal use of the software.
+The mainstream use case for our product is an adult user. They enjoy listening to music and podcasts, or watching videos, and are familiar with most of the current software products used for these purposes. Our mainstreamers don't have any physical impairment that prevents them from operating the software normally, nor do they exhibit signs of cognitive impairments to the normal use of the software.
 
 ### Non-data Sources
 1. Approach to Learning
+  - some mainstreamers learn best from experiences that are then shared with cohorts.
+  - some mainstreamers can learn well by simply watching a video and reproducing the results
 2. Approach to Technology
+  - some mainstreamers like to have the "latest and greatest" technologies available.
+  - some mainstreamers enjoy taking classes online, in addition to interacting with friends socially.
+  - a few mainstreamers have a personal website or blog page that they use regularly.
 3. Interaction Style
+  - if typing becomes too tedious, a mainstreamer may use voice messages in their place.
+  - almost all mainstreamers user emojis, pictures, and/or gifs as a way to shorthand the amount of text they need to write.
 4. Attitude Toward Risk
+  - many mainstreamers are highly adaptive, and are willing to experiment to achieve the results they want.
+  - some mainstreamers are interested in trying lots of new things.
 5. Motivations
+  - many mainstreamers spend several hours a day interacting with digital media.
+  - almost all mainstreamers use digital media on their cellphones, PCs, and tablets.
+  - some mainstreamers use digital media for educational purposes, but a lot use them strictly for entertainment.
 
 ### Persona Skeletons
+**Sophia (Mainstreamer)**
+
+_Motivations and Strategies_
+  - Motivations: She spends more than 6 hours a day interacting with digital medias, including her cellphone, PC and tablets. Most of the time she uses these digital media to study her courses, including watching lecture videos, reading notes, finishing assignments. She also uses her digital media for entertainment, such as for TV series and playing music.
+  - Approach to Learning: She has multiple ways of learning. Besides learning at school, she likes watch videos to learn, especially for new software. Also, she likes to share her experience with friends and learn new things from other people.
+  - Attitude Toward Risk: She is adaptive and fearless to changes. She could easily learn a new skill, such as a new software. Also, she likes trying different things and find what interested her most, and will spend time on her new interests.
+
+_Technology and Interaction_
+  - Interaction Style: She prefers multiple ways to interacting with digital media, especially some direct and easy way. When she has a long conversation to send to others via message, she will send a voice. Also, she likes send pictures and emojis to express her mode.
+  - Approach to Technology: She keeps in touch with the latest technology. She has a lot of social medias, enjoys learning on online courses. She even created her own website.
