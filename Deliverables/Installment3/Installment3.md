@@ -35,7 +35,23 @@
 | 20 | Older preschoolers may have their own devices, or more regular use of another family member’s device, to read books or play with apps. They will become more skilled and independent as they spend more time on these activities, but it is important to continue to sit with them during screen time, and draw them out with conversation about what they are doing. The temptation to hand over your device to keep a toddler occupied is strong – child media experts call this the “shut-up toy” use. On an airplane or long car trip, if you decide to let a toddler play on a device alone, select a few familiar books or games and limit access to those. Try to be part of the experience, if you can. Also bring other distractions, including printed books. Finally, explain that it’s a special arrangement, just for vacation or just for the airplane, so your child won’t expect increased screen time once the trip is over. | Interaction Style |
 
 ### Persona Skeletons
+**Stevie (Preschooler)**
 
+_Motivations and Strategies_
+  - Motivations: Stevie likes to listen to music and watch videos for fun [3](#g15). Stevie's parents also let Stevie use applications that are fun ways of learning reading [5](#r11).
+  - Approach to Learning: Stevie learns best when presented information in small chunks during relatively short timespans [1](#b02). Stevie processes information best when presented from Stevie's own perspective [4](#k15). Educational apps and games help Stevie to learn about the world, and start training skills like reading and math [2](#c16).
+  - Attitude Toward Risk:
+
+_Technology and Interaction_
+  - Interaction Style: Stevie can click on objects using a mouse, or select icons using touch [7](#b02), [3](#g15). Stevie generally chooses bright colors when selecting objects to click on or icons to touch [5](#n11).
+  - Approach to Technology:
+
+{#b02} [1] Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).
+{#c16} [2] Chassiakos, Yolanda Linda Reid, et al. "Children and adolescents and digital media." Pediatrics 138.5 (2016): e20162593.
+{#g15} [3] Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.
+{#k15} [4] Kuther, Tara L. Physical and Cognitive Development in Early Childhood (pp. 197--231). In Lifespan development: Lives in context. SAGE Publications, 2015.
+{#n11} [5] Naranjo-Bock, C. "Effective Use of Color and Graphics in Applications for Children, Part I: Toddlers and Preschoolers." Published 3 (2011): 2011.
+{#r11} [6] Rideout, V., et al. "Zero to eight children’s media use in America: Common Sense Media." (2011).
 
 ## Conception of Mainstreamer Group (team):
 ### Use Case for Mainstreamer
