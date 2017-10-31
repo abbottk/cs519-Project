@@ -38,20 +38,20 @@
 **Stevie (Preschooler)**
 
 _Motivations and Strategies_
-  - Motivations: Stevie likes to listen to music and watch videos for fun [3](#g15). Stevie's parents also let Stevie use applications that are fun ways of learning reading [5](#r11).
+  - Motivations: Stevie likes to listen to music and watch videos for fun [3](#g14). Stevie's parents also let Stevie use applications that are fun ways of learning reading [5](#r11).
   - Approach to Learning: Stevie learns best when presented information in small chunks during relatively short timespans [1](#b02). Stevie processes information best when presented from Stevie's own perspective [4](#k15). Educational apps and games help Stevie to learn about the world, and start training skills like reading and math [2](#c16).
-  - Attitude Toward Risk:
+  - Attitude Toward Risk: Stevie finds it difficult to accept other points of view, including when introduced to problems that may not have been encountered already in the past [4](#k15). Stevie tends to believe once something has happened there is no way of reversing the process to recover from the action [4](#k15).
 
 _Technology and Interaction_
-  - Interaction Style: Stevie can click on objects using a mouse, or select icons using touch [7](#b02), [3](#g15). Stevie generally chooses bright colors when selecting objects to click on or icons to touch [5](#n11).
-  - Approach to Technology:
+  - Interaction Style: Stevie can click on objects using a mouse, or select icons using touch [7](#b02), [3](#g14). Stevie generally chooses bright colors when selecting objects to click on or icons to touch [5](#n11).
+  - Approach to Technology: Stevie is very familiar with technology for watching television and DVDs, and has even had access to a mobile device at home for entertainment [6](#r11), [3](#g14). Even so, Stevie can find it confusing to be presented with too many options for entertainment at once [1](#b02).
 
-{#b02} [1] Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).
-{#c16} [2] Chassiakos, Yolanda Linda Reid, et al. "Children and adolescents and digital media." Pediatrics 138.5 (2016): e20162593.
-{#g15} [3] Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.
-{#k15} [4] Kuther, Tara L. Physical and Cognitive Development in Early Childhood (pp. 197--231). In Lifespan development: Lives in context. SAGE Publications, 2015.
-{#n11} [5] Naranjo-Bock, C. "Effective Use of Color and Graphics in Applications for Children, Part I: Toddlers and Preschoolers." Published 3 (2011): 2011.
-{#r11} [6] Rideout, V., et al. "Zero to eight children’s media use in America: Common Sense Media." (2011).
+[1] Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).
+[2] Chassiakos, Yolanda Linda Reid, et al. "Children and adolescents and digital media." Pediatrics 138.5 (2016): e20162593.
+[3] Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.
+[4] Kuther, Tara L. Physical and Cognitive Development in Early Childhood (pp. 197--231). In Lifespan development: Lives in context. SAGE Publications, 2015.
+[5] Naranjo-Bock, C. "Effective Use of Color and Graphics in Applications for Children, Part I: Toddlers and Preschoolers." Published 3 (2011): 2011.
+[6] Rideout, V., et al. "Zero to eight children’s media use in America: Common Sense Media." (2011).
 
 ## Conception of Mainstreamer Group (team):
 ### Use Case for Mainstreamer
