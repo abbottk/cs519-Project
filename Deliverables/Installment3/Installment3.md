@@ -53,6 +53,7 @@
 | 20 | Older preschoolers may have their own devices, or more regular use of another family member’s device, to read books or play with apps. They will become more skilled and independent as they spend more time on these activities, but it is important to continue to sit with them during screen time, and draw them out with conversation about what they are doing. The temptation to hand over your device to keep a toddler occupied is strong – child media experts call this the “shut-up toy” use. On an airplane or long car trip, if you decide to let a toddler play on a device alone, select a few familiar books or games and limit access to those. Try to be part of the experience, if you can. Also bring other distractions, including printed books. Finally, explain that it’s a special arrangement, just for vacation or just for the airplane, so your child won’t expect increased screen time once the trip is over. | Interaction Style |
 
 ### Persona Skeletons
+#### Priority 2
 **Name: Stevie**
 **Age: 3**
 
@@ -65,6 +66,7 @@ _Technology and Interaction_
   - Interaction Style: Stevie can click on objects using a mouse, or select icons using touch. She generally chooses bright colors when selecting objects to click on or icons to touch.
   - Approach to Technology: Stevie is very familiar with technology for watching television and DVDs, and has even had access to a mobile device at home for entertainment. Even so, she can find it confusing to be presented with too many options for entertainment at once.
 
+#### Priority 1
 **Name: Fred**
 **Age: 4**
 
@@ -101,6 +103,7 @@ The mainstream use case for our product is an adult user. They enjoy listening t
   - some mainstreamers use digital media for educational purposes, but a lot use them strictly for entertainment.
 
 ### Persona Skeletons
+#### Priority 2
 **Name: Sophia**
 **Age: 26**
 
@@ -113,6 +116,7 @@ _Technology and Interaction_
   - Interaction Style: She prefers multiple ways to interacting with digital media, especially some direct and easy way. When she has a long conversation to send to others via message, she will send a voice. Also, she likes send pictures and emojis to express her mode.
   - Approach to Technology: She keeps in touch with the latest technology. She has a lot of social medias, enjoys learning on online courses. She even created her own website.
 
+#### Priority 1
 **Name: Mike**
 **Age: 30**
 
