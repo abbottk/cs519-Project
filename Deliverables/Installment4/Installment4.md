@@ -37,14 +37,20 @@ Miki represents a mainstream user of an app
 - Works a full-time job
 - Lives in Portland, Oregon
 
+_Miki enjoys music and will frequently multitask by listening to it while performing simple activities. It helps them relieve stress and is useful for concentration._
+
+_Background Knowledge and Skills_
+  - Miki goes to work at their full time job as an accountant 5 days a week. They enjoy listening to music in the car, and will sometimes listen to music while working out or doing other simple tasks. They generally always use their phone for listening to music.
+  - Miki does not have a lot of time, and while they enjoy new technology, they tend to not have much time to use it.
+
 _Motivations and Strategies_
-  - Motivations: Mike likes to listen music while working, in gym and driving. It allows him to concentrate properly. He prefers music for stress relief or when working late night.
-  - Approach to Learning: He prefers to read and learn new things from Internet or interactive with people. He prefers listening to others over speaking which makes him a good listening. He likes to read on quora and daily news feeds.
-  - Attitude Toward Risk: He likes taking risk when given an opportunity to use new things. New technology excites him and encourage him to try something new. But He won't spend more time in experimenting with the new product.
+  - Motivations: Miki likes to listen music while working, in gym and driving. It allows him to concentrate properly. They prefer music for stress relief or when working late night.
+  - Approach to Learning: They prefer to read and learn new things from Internet or interactive with people. They prefer listening to others over speaking which makes him a good listener. They like to read on quora and daily news feeds.
+  - Attitude Toward Risk: They like taking risk when given an opportunity to use new things. New technology excites him and encourage him to try something new. But They won't spend more time in experimenting with the new product.
 
 _Technology and Interaction_
-  - Interaction Style: He likes interacting in different ways. He prefers emails or voice calls instead of text message.
-  - Approach to Technology: He prefers to use the best and latest available in market. His chooses are always top grosser mobile apps and gadgets available.
+  - Interaction Style: They like interacting in different ways. They prefer emails or voice calls instead of text message.
+  - Approach to Technology: They prefer to use the best and latest available in market. Thier choices are always top grosser mobile apps and gadgets available.
 
 
 ## Concepts
