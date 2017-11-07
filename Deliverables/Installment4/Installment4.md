@@ -29,6 +29,22 @@ _Technology and Interaction_
   - Approach to Technology: Eir exposure to technology is limited in that e only gets to play with devices that his parents give em. When e gets a chance to see higher-tech devices e asks eirs parents if e can have them.
 
 ### Mainstreamer Population Persona
+**Miki (Michael/Michele) Smith Persona Foundations**
+Miki represents a mainstream user of an app
+
+![Miki](miki.png)
+- 30 years old
+- Works a full-time job
+- Lives in Portland, Oregon
+
+_Motivations and Strategies_
+  - Motivations: Mike likes to listen music while working, in gym and driving. It allows him to concentrate properly. He prefers music for stress relief or when working late night.
+  - Approach to Learning: He prefers to read and learn new things from Internet or interactive with people. He prefers listening to others over speaking which makes him a good listening. He likes to read on quora and daily news feeds.
+  - Attitude Toward Risk: He likes taking risk when given an opportunity to use new things. New technology excites him and encourage him to try something new. But He won't spend more time in experimenting with the new product.
+
+_Technology and Interaction_
+  - Interaction Style: He likes interacting in different ways. He prefers emails or voice calls instead of text message.
+  - Approach to Technology: He prefers to use the best and latest available in market. His chooses are always top grosser mobile apps and gadgets available.
 
 
 ## Concepts
