@@ -40,20 +40,17 @@ Miki represents a mainstream user of an app
 - Works a full-time job
 - Lives in Portland, Oregon
 
-<<<<<<< HEAD
 <br><br>
-=======
-_Miki enjoys music and will frequently multitask by listening to it while performing simple activities. It helps them relieve stress and is useful for concentration._
+<font size="1">_Miki is a fan of music and will frequently multitask by listening to it while performing simple activities. It helps them relieve stress and is useful for concentration. Miki is generally very busy and always has somewhere to be. They enjoy hanging out with friends and having a good time, and will also often be seen at the gym. For Miki, music is an important part of daily life, and it is hard to go without it for too long._</font>
 
 _Background Knowledge and Skills_
   - Miki goes to work at their full time job as an accountant 5 days a week. They enjoy listening to music in the car, and will sometimes listen to music while working out or doing other simple tasks. They generally always use their phone for listening to music.
   - Miki does not have a lot of time, and while they enjoy new technology, they tend to not have much time to use it.
 
->>>>>>> dedc02261e2b7c32464d588bfe0b4e8490fcd566
 _Motivations and Strategies_
-  - Motivations: Miki likes to listen music while working, in gym and driving. It allows him to concentrate properly. They prefer music for stress relief or when working late night.
-  - Approach to Learning: They prefer to read and learn new things from Internet or interactive with people. They prefer listening to others over speaking which makes him a good listener. They like to read on quora and daily news feeds.
-  - Attitude Toward Risk: They like taking risk when given an opportunity to use new things. New technology excites him and encourage him to try something new. But They won't spend more time in experimenting with the new product.
+  - Motivations: Miki likes to listen music while working, in gym and driving. It allows them to concentrate properly. They prefer music for stress relief or when working late night.
+  - Approach to Learning: They prefer to read and learn new things from Internet or interactive with people. They prefer listening to others over speaking which makes them a good listener. They like to read on quora and daily news feeds.
+  - Attitude Toward Risk: They like taking risk when given an opportunity to use new things. New technology excites them and encourage them to try something new. But They won't spend more time in experimenting with the new product.
 
 _Technology and Interaction_
   - Interaction Style: They like interacting in different ways. They prefer emails or voice calls instead of text message.
