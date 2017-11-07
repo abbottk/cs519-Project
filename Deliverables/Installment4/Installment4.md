@@ -1,6 +1,6 @@
 # Project Installment 4: Rest of Gestation, Concepts, Very Early Prototype
 
-**Last Updated:** *2017-11-01*
+**Last Updated:** *2017-11-07*
 **Group Members:** *Keeley Abbott, Shashank Moghe, Malcolm Diller, and Chengxi Yang*
 
 ## Gestation Information
@@ -8,12 +8,14 @@
 **Fred (Frederick/Frederica) Smith Persona Foundations**
 Fred represents a fraction of preschool users with backgrounds similar to em.
 
-![Fred](fred.jpg)
+<img alt="Fred" border="100" height="131.25px" width="150px" style="float:left" src="fred.jpg" />
+<br><br>
 - 4 years old
 - Attends preschool
 - Lives in Portland, Oregon
 
-_Fred really likes music, and movies and television. When e is allowed to listen to music, Fred especially likes to listen to music from eir favorite movies and television shows. Before leaving for school Fred must turn off all devices, and focus on getting ready. Media tends to distract Fred from what e is doing when it is left on as "background" noise. During the day, Fred likes to run around and play with friends -- especially outside. At night Fred's parents may allow eir to watch a quiet movie or television show to calm down before bed time._
+<br><br>
+<font size="1">_Fred really likes music, and movies and television. When e is allowed to listen to music, Fred especially likes to listen to music from eir favorite movies and television shows. Before leaving for school Fred must turn off all devices, and focus on getting ready. Media tends to distract Fred from what e is doing when it is left on as "background" noise. During the day, Fred likes to run around and play with friends -- especially outside. At night Fred's parents may allow eir to watch a quiet movie or television show to calm down before bed time._</font>
 
 _Background Knowledge and Skills_
   - Fred goes to preschool part time (3 days a week). When e is at home, Fred is comfortable using eir parents smartphones or tablets to listen to music, watch videos, or play apps and games. When Fred's parents change smartphones or upgrade their other devices, it doesn't seem to impair eir use of media.
@@ -32,11 +34,13 @@ _Technology and Interaction_
 **Miki (Michael/Michele) Smith Persona Foundations**
 Miki represents a mainstream user of an app
 
-![Miki](miki.png)
+<img alt="Miki" border="100" height="131.25px" width="150px" style="float:left" src="miki.png" />
+<br><br>
 - 30 years old
 - Works a full-time job
 - Lives in Portland, Oregon
 
+<br><br>
 _Motivations and Strategies_
   - Motivations: Mike likes to listen music while working, in gym and driving. It allows him to concentrate properly. He prefers music for stress relief or when working late night.
   - Approach to Learning: He prefers to read and learn new things from Internet or interactive with people. He prefers listening to others over speaking which makes him a good listening. He likes to read on quora and daily news feeds.
@@ -52,6 +56,8 @@ _Technology and Interaction_
 
 ## Prototype
 
+
+## References
 1. [Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).](#bbf02hci)
 2. [Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.](#gea14aist)
 3. [Kuther, Tara L. Lifespan development: Lives in context. SAGE Publications, 2015.](#k15lifespan)
