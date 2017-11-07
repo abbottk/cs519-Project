@@ -20,8 +20,8 @@ _Background Knowledge and Skills_
   - Fred likes to use eir imagination
 
 _Motivations and Strategies_
-  - Motivations: E spends about 3 hours per day using digital media<sup>[2](#v11csm)</sup>, and enjoys listening to music and watching TV<sup>[2](#v11csm),[1](#gea14aist)</sup>.
-  - Approach to Learning: Fred has a short attention span and so tutorials for apps have to not be too long. E has difficulty doing more than one thing at a time, and has trouble viewing the world from other people's perspective. Because of this, e only enjoys tutorials that focus on the things e wants to learn about.
+  - Motivations: E spends about 3 hours per day using digital media<sup>[4](#v11csm)</sup>, and enjoys listening to music and watching movies or television<sup>[4](#v11csm),[2](#gea14aist)</sup>.
+  - Approach to Learning: Fred has a short attention span<sup>[1](#bbf02hci)</sup> and so tutorials for apps have be short. E has difficulty doing more than one thing at a time<sup>[1](#bbf02hci)</sup>, and has trouble viewing the world from other people's perspective<sup>[3](#k15lifespan)</sup>. Because of this, e only enjoys tutorials that focus on the things e wants to learn about.
   - Attitude Toward Risk: E is generally fairly fearless, and when something goes wrong e is certain to come up with a reason for why. When others try to explain to em that eir explanations may not be correct, e is usually quite stubborn and persists that eirs beliefs are correct.
 
 _Technology and Interaction_
@@ -58,5 +58,7 @@ _Technology and Interaction_
 
 ## Prototype
 
-[1. Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.](#gea14aist)
-[2. Common Sense Media, and Victoria Rideout. Zero to eight: Children's media use in America. Common Sense Media, 2011.](#v11csm)
+1. [Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).](#bbf02hci)
+2. [Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.](#gea14aist)
+3. [Kuther, Tara L. Lifespan development: Lives in context. SAGE Publications, 2015.](#k15lifespan)
+4. [Common Sense Media, and Victoria Rideout. Zero to eight: Children's media use in America. Common Sense Media, 2011.](#v11csm)
