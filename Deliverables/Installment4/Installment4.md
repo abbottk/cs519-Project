@@ -26,6 +26,19 @@ Fred really likes music, and movies and television. When e is allowed to listen 
 **Technology and Interaction**
 - Interaction Style: Fred enjoys apps which have large icons that are easy to click on<sup>[1,5]</sup>. E also likes bright, bold colors, with high contrast<sup>[1]</sup>. E does have a hard time clicking on smaller icons or layouts with too many of them, and e sometimes gets lost because e is too focused on one part of an app<sup>[1,4,5]</sup>.
 
+<div class="page-break"></div>
+
+## References
+1. [Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).](#bbf02hci)
+2. [Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.](#gea14aist)
+3. [Gutnick, Aviva Lucas, et al. "Always connected: The new digital media habits of young children." New York: The Joan Ganz Cooney Center at Sesame Workshop. 2011.](#gea11always)
+4. [Kuther, Tara L. Lifespan development: Lives in context. SAGE Publications, 2015.](#k15lifespan)
+5. [Common Sense Media, and Victoria Rideout. Zero to eight: Children's media use in America. Common Sense Media, 2011.](#v11csm)
+6. [Takeuchi, Lori. "Families matter: Designing media for a digital age." New York: The Joan Ganz Cooney Center at Sesame Workshop. 2011.](#t11families)
+
+
+<div class="page-break"></div>
+
 ### Mainstreamer Population Persona
 **Miki (Michael/Michelle) Smith Persona Foundation**
 _Miki represents a fraction of adult users with backgrounds similar to em._
@@ -49,8 +62,12 @@ Miki enjoys music and will frequently multitask by listening to it while perform
 - Interaction Style: E likes interacting in different ways. E prefers emails or voice calls to of text messages.
 - Approach to Technology: E prefers to use the best and latest available in market. Eir choices are always the top grosser mobile apps and newest gadgets available.
 
-## Concepts
+_NOTE: Foundation Documents are also included as "fred.png", and "miki.png" for our underserved and mainstream populations (respectively)._
 
+<div class="page-break"></div>
+
+## Concepts
+_Included in submission as "concepts.pdf."_
 
 ## Prototype
 (a) Which concept(s) did you select and why/what criteria you used.
@@ -59,11 +76,4 @@ Miki enjoys music and will frequently multitask by listening to it while perform
   3. Interaction Style: because we're dealing with multiple potential points of access for this software, we felt that the inclusion of flashing icons and positive audio feedback would be the best solution here. Rather than being dependent on a "hover" event, we made it dependent on a "click" event, to provide indication that the user had made a selection.
 
 (b) Sketch the beginning of a low-fidelity prototype on how you are developing it/them.
-
-## References
-1. [Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).](#bbf02hci)
-2. [Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.](#gea14aist)
-3. [Gutnick, Aviva Lucas, et al. "Always connected: The new digital media habits of young children." New York: The Joan Ganz Cooney Center at Sesame Workshop. 2011.](#gea11always)
-4. [Kuther, Tara L. Lifespan development: Lives in context. SAGE Publications, 2015.](#k15lifespan)
-5. [Common Sense Media, and Victoria Rideout. Zero to eight: Children's media use in America. Common Sense Media, 2011.](#v11csm)
-6. [Takeuchi, Lori. "Families matter: Designing media for a digital age." New York: The Joan Ganz Cooney Center at Sesame Workshop. 2011.](#t11families)
+  _Included in submission as "prototype.pdf."_
