@@ -1,15 +1,15 @@
 # Project Installment 5: Complete (some parts medium-fi, a snippet or two hi-fi) prototype
 
-**Last Updated:** *2017-11-13*
+**Last Updated:** *2017-11-14*
 **Group Members:** *Keeley Abbott, Shashank Moghe, Malcolm Diller, and Chengxi Yang*
 
 ## Use Cases
 ### Underserved Population
-1.
-2.
+1. In order to distract and entertain Fred for a while, Fred's parents sit em at the table with one of their smartphones open to the iTunes app, and tells em to "watch a movie or listen to music." So, Fred decides to watch a movie.
+2. Fred has been watching a movie and decides e would rather play a game. So Fred stops the movie, and returns to the "home" screen where he can select the apps/games menu. E then chooses an app/game from the available selections.
 
 ### Mainstreamer Population
-1.
+1. 
 
 ## Prototype
 
