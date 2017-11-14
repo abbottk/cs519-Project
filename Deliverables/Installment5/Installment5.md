@@ -6,10 +6,10 @@
 ## Use Cases
 ### Underserved Population
 1. In order to distract and entertain Fred for a while, Fred's parents sit em at the table with one of their smartphones open to the iTunes app, and tells em to "watch a movie or listen to music." So, Fred decides to watch a movie.
-2. Fred has been watching a movie and decides e would rather play a game. So Fred stops the movie, and returns to the "home" screen where he can select the apps/games menu. E then chooses an app/game from the available selections.
+2. Fred has been watching a movie and decides e would rather play a game. Fred doesn't quite know how to do this, so e needs some help figuring out how to stop the movie, and returns to the "home" screen where e can select the apps/games menu.
 
 ### Mainstreamer Population
-1. 
+1. Miki is exercising and listening to music. When e finishes with eir run, e decides to switch to a movie before heading to the locker room.
 
 ## Prototype
 
