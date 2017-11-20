@@ -1,6 +1,6 @@
 # Project Installment 5: Complete (some parts medium-fi, a snippet or two hi-fi) prototype
 
-**Last Updated:** *2017-11-14*
+**Last Updated:** *2017-11-19*
 **Group Members:** *Keeley Abbott, Shashank Moghe, Malcolm Diller, and Chengxi Yang*
 
 ## Use Cases
