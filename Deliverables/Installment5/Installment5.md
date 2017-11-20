@@ -12,7 +12,7 @@
 1. Miki is exercising and listening to music. When e finishes with eir run, e decides to switch to a movie before heading to the locker room.
 
 ## Prototype
-
+_Included in submission as prototypes.pdf"_
 
 ## Design Decision Justifications (based on personas and feedback)
 ### Decisions based on attributes:
