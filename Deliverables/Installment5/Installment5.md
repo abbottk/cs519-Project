@@ -23,6 +23,8 @@
 3. Included in file upload as "overviewAccount.pdf" as well.
 ![OverviewAccount](accountSwitching_iPhone/overviewAccount.png)
 
+<div class="page-break"></div>
+  
 ## Design Decision Justifications (based on personas and feedback)
 ### Decisions based on attributes:
   1. Approach to Learning: with this attribute we included help videos that are presented from the user perspective. Each of these videos is designed to be short and limit the number of actions (for the completion of the task), in order to minimize the amount users have to remember or act upon.
