@@ -1,6 +1,6 @@
-# Project Installment 5: Complete Prototype
+# Final Project Installment: Complete Project + Presentation Slides
 
-**Last Updated:** *2017-11-20*
+**Last Updated:** *2017-11-22*
 **Group Members:** *Keeley Abbott, Shashank Moghe, Malcolm Diller, and Chengxi Yang*
 
 ## Use Cases
@@ -13,15 +13,15 @@
 
 ## Prototype
 1. Included in file upload as "overviewSwitching.pdf" as well.
-![OverviewSwitching](mediaSwitching_iPhone/overviewSwitching.png)
+![OverviewSwitching](../Installment5/mediaSwitching_iPhone/overviewSwitching.png)
 
 <div class="page-break"></div>
 
 2. Included in file upload as "overviewSelection.pdf" as well.
-![OverviewSelection](mediaSelection_iPhone/overviewSelection.png)
+![OverviewSelection](../Installment5/mediaSelection_iPhone/overviewSelection.png)
 
 3. Included in file upload as "overviewAccount.pdf" as well.
-![OverviewAccount](accountSwitching_iPhone/overviewAccount.png)
+![OverviewAccount](../Installment5/accountSwitching_iPhone/overviewAccount.png)
 
 <div class="page-break"></div>
 
@@ -68,7 +68,7 @@ Fred really likes music, and movies and television. When e is allowed to listen 
 
 <div class="page-break"></div>
 
-## References
+### References
 1. [Bruckman, Amy, Alisa Bandlow, and Andrea Forte. "HCI for kids." (2002).](#bbf02hci)
 2. [Given, Lisa M., et al. "Documenting young children's technology use: Observations in the home." Proceedings of the Association for Information Science and Technology 51.1 (2014): 1-9.](#gea14aist)
 3. [Gutnick, Aviva Lucas, et al. "Always connected: The new digital media habits of young children." New York: The Joan Ganz Cooney Center at Sesame Workshop. 2011.](#gea11always)
@@ -101,3 +101,6 @@ Miki enjoys music and frequently multitask by listening to it while performing s
 **Technology and Interaction**
 - Interaction Style: E likes interacting in different ways. E prefers emails or voice calls to of text messages.
 - Approach to Technology: E prefers to use the best and latest available in market. Eir choices are always the top grosser mobile apps and newest gadgets available.
+
+## Presentation
+_Included in file upload as "projectFinalInstallmentSlides.pdf"_
