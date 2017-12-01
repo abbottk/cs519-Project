@@ -9,7 +9,7 @@
 2. One of Fred's parents has handed Fred their mobile device in order to keep em busy while they do something else. Fred decides e wants to watch "Frozen," but can't remember the name of the movie only "Olaf".
 
 ### Mainstreamer Population
-3. Miki's preschooler has been watching movies on eir mobile device, and now e wants to listen to music while e works out. E needs to switch accounts in order to revert to eir settings.
+3. Miki wants to listen to some new music that e has heard about from friends. E doesn't know much about the artist, and wants to learn more about them before listening to their music.
 
 ## Prototype
 1. Included in file upload as "overviewSwitching.pdf" as well.
@@ -20,18 +20,21 @@
 2. Included in file upload as "overviewSelection.pdf" as well.
 ![OverviewSelection](../Installment5/mediaSelection_iPhone/overviewSelection.png)
 
-3. Included in file upload as "overviewAccount.pdf" as well.
-![OverviewAccount](../Installment5/accountSwitching_iPhone/overviewAccount.png)
+3. Included in file upload as "overviewInfoTags.pdf" as well.
+![OverviewInfoTag](informationTags_iPhone/overviewInfoTags.png)
 
 <div class="page-break"></div>
 
 ## Design Decision Justifications (based on personas and feedback)
-### Decisions based on attributes:
+### Decisions based on underserved attributes:
   1. Approach to Learning: with this attribute we included help videos that are presented from the user perspective. Each of these videos is designed to be short and limit the number of actions (for the completion of the task), in order to minimize the amount users have to remember or act upon.
   2. Approach to Technology: with this attribute, we wanted to make sure that the interface was easy to pick up if the user hadn't accessed it in a while, or if they switched technology that the interface would translate well.
   3. Attitude to Recovery: in order to keep the users from feeling like selections were "permanent" and previous state could not be recovered, we provide "paths" throughout the interface to allow users to return to an initial state or to switch to a different state easily at any time.
   4. Interaction Style: with this attribute we wanted to provide users positive feedback (icon highlighting, and positive click sounds). In addition, we provided users larger icons with more space to allow selection.
   5. Motivations: the primary design decision for this attribute was to provide users with common options they would use most often when accessing their digital media.
+
+### Decisions based on mainstreamer attributes:
+  1. Approach to Learning: to support our mainstreamer attribute, we wanted to provide additional features for learning more about screen items.
 
 ### Decisions based on feedback:
   1. During design jam #1 we received the feedback that having too many "help texts" might be distracting to a mainstream user, so we adjusted the way we were going to handle this by providing a single help button that allows for multiple outputs depending on the selection for help.
@@ -99,7 +102,7 @@ Miki enjoys music and frequently multitask by listening to it while performing s
 - Attitude to Recovery: E likes taking risk when given an opportunity to use new things. New technology excites em and encourages em to try something new. But e won't spend an excessive amount of  time in experimenting with new products.
 
 **Technology and Interaction**
-- Interaction Style: E likes interacting in different ways. E prefers emails or voice calls to of text messages.
+- Interaction Style: E likes interacting in different ways. E prefers emails or voice calls over text messages.
 - Approach to Technology: E prefers to use the best and latest available in market. Eir choices are always the top grosser mobile apps and newest gadgets available.
 
 ## Presentation
